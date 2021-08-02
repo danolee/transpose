@@ -1,0 +1,11 @@
+__pycache__
+
+# logs
+transpose.log
+
+# virtual env
+venv
+
+# unit test and coverage
+.coverage
+htmlcov
