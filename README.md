@@ -20,6 +20,7 @@ edcba
 
 ## Assumptions
 
+- python 3.6+
 - From `man wc`: A word is a non-zero-length sequence of characters delimited by white space
     - Allows for multiple words per line in file
 - File must be readable and not empty
